@@ -1,0 +1,6 @@
+C:\Users\Gotti\source\repos\ArrayMatrixBigONotation\ArrayMatrixBigONotation\obj\Debug\ArrayMatrixBigONotation.csprojAssemblyReference.cache
+C:\Users\Gotti\source\repos\ArrayMatrixBigONotation\ArrayMatrixBigONotation\bin\Debug\ArrayMatrixBigONotation.exe.config
+C:\Users\Gotti\source\repos\ArrayMatrixBigONotation\ArrayMatrixBigONotation\bin\Debug\ArrayMatrixBigONotation.exe
+C:\Users\Gotti\source\repos\ArrayMatrixBigONotation\ArrayMatrixBigONotation\bin\Debug\ArrayMatrixBigONotation.pdb
+C:\Users\Gotti\source\repos\ArrayMatrixBigONotation\ArrayMatrixBigONotation\obj\Debug\ArrayMatrixBigONotation.exe
+C:\Users\Gotti\source\repos\ArrayMatrixBigONotation\ArrayMatrixBigONotation\obj\Debug\ArrayMatrixBigONotation.pdb
