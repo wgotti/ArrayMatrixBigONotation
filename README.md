@@ -1,5 +1,8 @@
-# ArrayMatrixBigONotation
-I got this tech challenge from a job interview, Array and Matrix operations, and Big O Notation 
+# Array and Matrix manipulation, and Big O Notation
+I got this tech challenge from a job interview, that focuses on Array and Matrix manipulation, and Big O Notation. 
+
+*I must confess that I don´t normaly use bidimensional arrays or jagged arrays, and Big O Notation was completely new to me. 
+But, it´s always good to learn something new and I´m sure Big O and Dynamic Programming will be usefull to me again. I intend to get deeper on that. Thanks for ringing that bell!!!*
 
 
 **1. Having a non-empty array of non-negative integers of length N, you need to return the maximum sum of subset of array elements such that you never take any two adjacent elements.**
